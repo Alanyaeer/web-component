@@ -4,5 +4,5 @@
 
 [[web-component/cloud-font at master · Alanyaeer/web-component (github.com)](https://github.com/Alanyaeer/web-component/tree/master/cloud-font)]
 
-![image-20231028192333139](C:\Users\wps\AppData\Roaming\Typora\typora-user-images\image-20231028192333139.png)
+![image-20231028192333139](https://cdn.jsdelivr.net/gh/Alanyaeer/web-component@master/assets/202310282006780.png)
 
