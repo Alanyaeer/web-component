@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>进度条动画</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+    <script src="js/script.js"></script>
+</head>
+
+<body>
+    
+    <template id="xcprogress">
+        <div class="xcprogress">
+            <div class="xcprogress-bar" :style="{ 'width': `${value}%` }">
+                <span class="xcprogress-bar-value">{{ value }}%</span>
+            </div>
+        </div>
+    </template>
+
+    <div id="app">
+        <xc-progress :value="value" @change="change"></xc-progress>
+    </div>
+
+</body>
+
+</html>
