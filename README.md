@@ -16,6 +16,8 @@
 
 ## process-bar
 
+[进度条](https://github.com/Alanyaeer/web-component/tree/master/process-bar)
+
 这里有一段代码不是很理解
 
 `background-image: linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);`
